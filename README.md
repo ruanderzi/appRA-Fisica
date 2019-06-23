@@ -1,2 +1,2 @@
 # Aplicativo RA-Fisica
-Codificacao do Aplicativo
+Codificação do Aplicativo
